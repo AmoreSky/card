@@ -49,3 +49,6 @@ button{
     color: #fafafa;
     font-weight: bolder;
 }
+.share{
+    width: fit-content;
+}
